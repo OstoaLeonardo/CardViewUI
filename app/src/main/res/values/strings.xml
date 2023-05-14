@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CardView UI</string>
+    <string name="converter">Convertidor de Unidades</string>
+    <string name="length">Longitud</string>
+    <string name="area">Area</string>
+    <string name="weight">Peso</string>
+    <string name="temperature">Temperatura</string>
+    <string name="time">Tiempo</string>
+    <string name="speed">Velocidad</string>
+    <string name="volume">Volumen</string>
+    <string name="money">Divisa</string>
+    <string name="data">Datos</string>
+</resources>
